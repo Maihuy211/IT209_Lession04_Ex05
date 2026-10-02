@@ -1,3 +1,4 @@
 Du an demo Reset vs Revert
 Phien ban: v1.0 - khoi tao
 Tinh nang tot: tinh tong 2 so (code dung)
+BUG: chia cho 0 gay crash (code loi can sua)
